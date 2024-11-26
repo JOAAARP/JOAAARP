@@ -1,7 +1,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Hola a todos Soy Joaquin Aravena -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -27,7 +27,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Herramientas de control de versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
