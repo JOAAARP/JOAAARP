@@ -15,7 +15,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611e38rb4ui7uewhb62aeq9vabx1g82vaswp3w18t75&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611lojx057cubgccr3bnqnyda8crezcm55niqhwzzhy&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
